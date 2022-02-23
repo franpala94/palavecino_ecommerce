@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/palavecino_ecommerce/static/css/main.cb2c2758.css",
+    "main.js": "/palavecino_ecommerce/static/js/main.4c4e8589.js",
+    "index.html": "/palavecino_ecommerce/index.html",
+    "main.cb2c2758.css.map": "/palavecino_ecommerce/static/css/main.cb2c2758.css.map",
+    "main.4c4e8589.js.map": "/palavecino_ecommerce/static/js/main.4c4e8589.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb2c2758.css",
+    "static/js/main.4c4e8589.js"
+  ]
+}
